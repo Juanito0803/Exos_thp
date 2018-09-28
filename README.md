@@ -1,2 +1,1 @@
-# Exos_thp
-# Exos_thp
+# Exercices_ruby_thp
